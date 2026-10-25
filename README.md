@@ -1,6 +1,6 @@
 # DevScripty Core
 
-Custom code for the staging build (staging.devscripty.org) of devscripty.org (WordPress + Breakdance).
+Custom code for the staging build (staging.devscripty.org) of devscripty.org (WordPress + Elementor).
 
 ## What's inside
 - Custom PHP functions and hooks
