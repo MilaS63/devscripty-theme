@@ -1,0 +1,59 @@
+
+.devscripty-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.logo-icon {
+  width: 36px;
+  height: 36px;
+  background-color: #1A1A1A; 
+  color: #FDFBF7; 
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 18px;
+  transition: background-color 0.3s ease; 
+}
+
+.devscripty-logo:hover .logo-icon {
+  background-color: #9E886D;
+}
+
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.brand-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1A1A1A;
+  line-height: 1.1;
+}
+
+
+.brand-subtitle {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  color: #9E886D;
+  letter-spacing: 0.1em;
+  margin-top: 2px;
+}
+
+.devscripty-logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  margin-right: auto;
+}

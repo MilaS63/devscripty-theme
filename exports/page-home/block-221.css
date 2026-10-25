@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+.tech-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px; 
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #55524E; 
+    opacity: 0.85;
+    padding: 20px 0; 
+}
+
+.tech-row-item {
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+    transition: color 0.3s ease;
+}
+
+.tech-row-item:hover {
+    color: #1A1A1A;
+}
+
+.tech-row-item i {
+    font-size: 26px;
+}
+
+.tech-row-item span {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.tech-icon-wordpress { color: #21759B; }
+.tech-icon-shopify { color: #96BF48; }
+.tech-icon-elementor { color: #92003B; }
+.tech-icon-php { color: #777BB4; }
+.tech-icon-ghl { color: #9E886D; }
+.tech-icon-js { color: #F7DF1E; }
